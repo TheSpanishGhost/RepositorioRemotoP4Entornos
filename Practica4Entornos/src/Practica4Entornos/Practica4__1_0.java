@@ -25,5 +25,7 @@ public class Practica4__1_0 {
 		System.out.println("\n");
 		System.out.println("P.D: Caca culo pedo pis");
 		
+		System.out.println("VERSIÓN 2.0 FINAL FINALÍSIMA");
+		
 	}
 }
